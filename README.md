@@ -6,5 +6,6 @@ Application这一块我会不定时更新，总之不可能有Android版本
 偶尔会有Shadowsocks。
 
 Thank them :-):
-Windows C# Version SSR:https://github.com/shadowsocksr-backup/shadowsocksr-csharp
-And this:https://github.com/shadowsocksr-backup He backup its source.Thanks:-)
+Windows C# Version SS:https://github.com/shadowsocks/shadowsocks-windows
+And:https://github.com/shadowsocksr-backup https://github.com/shadowsocks
+They opened SSR and SS source,thanks:-)
